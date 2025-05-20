@@ -11,12 +11,12 @@ Como estudante de Sistemas de Informação, busco entender como a tecnologia e o
 👨🏻‍🎓 Sou estudante de Sistemas de Informação com muita vontade de aprender :)
 </div>
 
-# Projetos 💻
+# 💻 Projetos:
 <div>
 Em breve...
 </div>
 
-# Certificados 🎓
+# 🎓 Certificados:
 <div>
 Em breve...
 </div>
