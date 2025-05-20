@@ -6,6 +6,9 @@ Como estudante de Sistemas de Informação, busco entender como a tecnologia e o
 
 > "A dúvida é o princípio da sabedoria." — Aristóteles
 
+# 📊 Estatísticas
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IgorSacardo&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSacardo&layout=compact&theme=dark">
+
 # 🙋🏻‍♂️ Sobre mim:
 <div>
 👨🏻‍🎓 Sou estudante de Sistemas de Informação com muita vontade de aprender :)
