@@ -1,7 +1,8 @@
 ```js
 const IgorSacardo = {
   nome: "Igor Sacardo",
-  resumo: "Sou estudante de Sistemas de Informação e tenho interesse em entender como a tecnologia e os dados ajudam as organizações a tomar decisões melhores e alcançar bons resultados.",
+  resumo: "Sou estudante de Sistemas de Informação e tenho interesse em entender como a
+    tecnologia e os dados ajudam as organizações a tomar decisões melhores e alcançar bons resultados.",
   foco: ["Desenvolvimento de Software", "Modelagem de Sistemas", "Design focado no usuário"],
   
   hardSkills: {
