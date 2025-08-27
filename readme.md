@@ -1,3 +1,20 @@
+<!--
+```js
+import Desenvolvedor from "IgorSacardo";
+
+class SobreMim extends Desenvolvedor {
+  nome = "Igor Sacardo";
+  area = "Backend";
+  trabalho = "";
+  local = "";
+}
+
+class Skills extends Desenvolvedor {
+  linguagens = ["Java, JavaScript, PHP, Python"];
+  devops = ["Git, GitHub"];
+}
+```
+
 # 👀 Oii, me chamo Igor Sacardo!
 
 **É um prazer ter você aqui na minha página** 👋
@@ -39,7 +56,6 @@ Também possuo experiência com bancos de dados e modelagem UML, utilizando ferr
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-sacardo/)
 
-<!--
 - 👋 Hi, I’m @IgorSacardo
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
