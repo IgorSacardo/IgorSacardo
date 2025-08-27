@@ -1,19 +1,40 @@
-<!--
 ```js
-import Desenvolvedor from "IgorSacardo";
+const IgorSacardo = {
+  nome: "Igor Sacardo",
+  resumo: "Sou estudante de Sistemas de Informação e tenho interesse em entender como a tecnologia e os dados ajudam as organizações a tomar decisões melhores e alcançar bons resultados.",
+  foco: ["Desenvolvimento de Software", "Modelagem de Sistemas", "Design focado no usuário"],
+  
+  hardSkills: {
+    linguagens: ["Python", "JavaScript", "Java", "PHP"],
+    web: ["HTML5", "CSS3"],
+    bancoDeDados: ["MySQL"],
+    ferramentas: ["Git", "GitHub", "Lucidchart"]
+  },
 
-class SobreMim extends Desenvolvedor {
-  nome = "Igor Sacardo";
-  area = "Backend";
-  trabalho = "";
-  local = "";
-}
+  softSkills: [
+    "Comunicação",
+    "Proatividade",
+    "Adaptabilidade",
+    "Aprendizado Contínuo",
+    "Atenção aos Detalhes",
+    "Organização"
+  ],
 
-class Skills extends Desenvolvedor {
-  linguagens = ["Java, JavaScript, PHP, Python"];
-  devops = ["Git, GitHub"];
-}
+  projetos: {
+    status: "Em desenvolvimento..."
+  },
+
+  formacao: {
+    curso: "Sistemas de Informação",
+    status: "Em andamento..."
+  },
+  
+  contato: {
+    linkedin: "https://www.linkedin.com/in/igor-sacardo/"
+  }
+};
 ```
+<!--
 
 # 👀 Oii, me chamo Igor Sacardo!
 
